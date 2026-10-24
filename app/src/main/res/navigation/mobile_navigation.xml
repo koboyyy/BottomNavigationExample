@@ -6,27 +6,22 @@
     app:startDestination="@+id/navigation_home">
     <fragment
         android:id="@+id/navigation_home"
-        android:name="id.ac.polbeng.asmira.myapplication.HomeFragment"
+        android:name="id.ac.polbeng.eko.myapplication.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="id.ac.polbeng.asmira.bottomnavigation.DashboardFragment"
+        android:name="id.ac.polbeng.eko.myapplication.DashboardFragment"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_dashboard" />
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="id.ac.polbeng.asmira.myapplication.NotificationFragment"
+        android:name="id.ac.polbeng.eko.myapplication.NotificationFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notification" />
     <fragment
         android:id="@+id/navigation_profile"
-        android:name="id.ac.polbeng.asmira.myapplication.ProfileFragment"
+        android:name="id.ac.polbeng.eko.myapplication.ProfileFragment"
         android:label="@string/title_profile"
         tools:layout="@layout/fragment_profile" />
-    <fragment
-        android:id="@+id/homeFragment"
-        android:name="id.ac.polbeng.asmira.myapplication.HomeFragment"
-        android:label="fragment_home"
-        tools:layout="@layout/fragment_home" />
 </navigation>

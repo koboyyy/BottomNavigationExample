@@ -1,4 +1,4 @@
-package id.ac.polbeng.asmira.myapplication
+package id.ac.polbeng.eko.myapplication
 
 import org.junit.Test
 

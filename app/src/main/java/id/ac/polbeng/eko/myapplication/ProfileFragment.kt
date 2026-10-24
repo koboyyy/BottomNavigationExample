@@ -1,11 +1,11 @@
-package id.ac.polbeng.asmira.myapplication
+package id.ac.polbeng.eko.myapplication
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import id.ac.polbeng.asmira.myapplication.databinding.FragmentProfileBinding
+import id.ac.polbeng.eko.myapplication.databinding.FragmentProfileBinding
 
 class ProfileFragment : Fragment() {
     private var _binding: FragmentProfileBinding? = null

@@ -1,4 +1,4 @@
-package id.ac.polbeng.asmira.myapplication
+package id.ac.polbeng.eko.myapplication
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -6,7 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.ViewModelProvider
-import id.ac.polbeng.asmira.myapplication.databinding.FragmentHomeBinding
+import id.ac.polbeng.eko.myapplication.databinding.FragmentHomeBinding
 
 class HomeFragment : Fragment() {
     private var _binding: FragmentHomeBinding? = null

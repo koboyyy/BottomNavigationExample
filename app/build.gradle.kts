@@ -3,15 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "id.ac.polbeng.asmira.myapplication"
+    namespace = "id.ac.polbeng.eko.myapplication"
     compileSdk {
-        version = release(36) {
-            minorApiLevel = 1
-        }
+        version = release(37)
     }
 
     defaultConfig {
-        applicationId = "id.ac.polbeng.asmira.myapplication"
+        applicationId = "id.ac.polbeng.eko.myapplication"
         minSdk = 27
         targetSdk = 36
         versionCode = 1

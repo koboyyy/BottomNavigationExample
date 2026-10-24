@@ -1,4 +1,4 @@
-package id.ac.polbeng.asmira.myapplication
+package id.ac.polbeng.eko.myapplication
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

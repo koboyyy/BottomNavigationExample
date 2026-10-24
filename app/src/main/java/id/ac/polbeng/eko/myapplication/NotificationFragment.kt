@@ -1,4 +1,4 @@
-package id.ac.polbeng.asmira.myapplication
+package id.ac.polbeng.eko.myapplication
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import id.ac.polbeng.asmira.myapplication.databinding.FragmentNotificationBinding
+import id.ac.polbeng.eko.myapplication.databinding.FragmentNotificationBinding
 
 
 class NotificationFragment : Fragment() {
